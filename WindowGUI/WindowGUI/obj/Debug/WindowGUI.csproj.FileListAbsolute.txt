@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe.config
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\bin\Debug\WindowGUI.pdb
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.Properties.Resources.resources
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.exe
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.pdb
+C:\Users\Admin\Documents\coded visua\WindowGUI\WindowGUI\obj\Debug\WindowGUI.Form1.resources
